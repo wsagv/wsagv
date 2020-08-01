@@ -1,4 +1,5 @@
-###Olá, sou Wiliane Araújo, estudante de desenvolvimento 🚀 👋
+Olá! 👋
+Sou Wiliane Araújo, estudante de desenvolvimento 🚀 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiliane-araujo)](https://www.linkedin.com/in/wiliane-araujo)
 
