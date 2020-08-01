@@ -1,7 +1,7 @@
-### Hi there 👋
+###Olá, sou Wiliane Araújo, estudante de desenvolvimento 🚀 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wiliane-araujo)](https://www.linkedin.com/in/wiliane-araujo)
-[! [Gmail] (https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)] (mailto: wsagv2@gmail.com)
+
 
 <!--
 **wsagv/wsagv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
